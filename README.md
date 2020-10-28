@@ -1,2 +1,2 @@
 # PrimerSTec1
-Primer repositorio semana tec
+Primer repositorio semana tec: Herramientas computacionales
